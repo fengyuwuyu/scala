@@ -1,0 +1,7 @@
+.settings
+bin
+target
+*.project
+*.classpath
+.metadata
+/base-demo/.cache-main
